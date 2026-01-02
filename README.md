@@ -8,6 +8,7 @@ The biggest obstable right now is still getting the reliable sources for the ran
 
 ```bash
 uv sync
+git submodule update --init --recursive
 
 kratt 现在
 kratt 现在 -n 20 --context 40
