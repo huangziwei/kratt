@@ -1,0 +1,18 @@
+[submodule "data/KR1"]
+	path = data/KR1
+	url = https://github.com/kr-shadow/KR1.git
+[submodule "data/KR2"]
+	path = data/KR2
+	url = https://github.com/kr-shadow/KR2.git
+[submodule "data/KR3"]
+	path = data/KR3
+	url = https://github.com/kr-shadow/KR3.git
+[submodule "data/KR4"]
+	path = data/KR4
+	url = https://github.com/kr-shadow/KR4.git
+[submodule "data/KR5"]
+	path = data/KR5
+	url = https://github.com/kr-shadow/KR5.git
+[submodule "data/KR6"]
+	path = data/KR6
+	url = https://github.com/kr-shadow/KR6.git
